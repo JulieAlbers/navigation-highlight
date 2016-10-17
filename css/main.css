@@ -57,13 +57,19 @@ h2 {
   font-family: "Sigmar One", sans-serif;
   font-size: 1.875rem;
   color: #cc1465;
+  margin-top: 0.3em;
   margin-left: 0.3em;
   margin-right: 0.3em;
 }
 
 p {
-  margin-left: 0.3em;
-  margin-right: 0.3em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+img {
+  width: 100%;
+  padding: 0.5em;
 }
 
 footer {
