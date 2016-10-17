@@ -33,11 +33,11 @@ nav li {
 }
 
 .btn {
-  display: inline;
+  display: inline-block;
   text-decoration: none;
   font-size: 1.125rem;
   color: #fff;
-  padding: 0.4em 0.5em;
+  padding: 0.3em 0.4em;
   radius: 4px;
   background-color: #b2a212;
   border-radius: 4px;
