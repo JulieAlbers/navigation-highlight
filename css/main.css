@@ -25,7 +25,7 @@ nav ul {
   list-style-type: none;
   padding: 0;
   text-align: center;
-  margin: 0em;
+  margin: 0;
   margin-bottom: 0.2em;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
@@ -64,10 +64,9 @@ main {
 h2 {
   font-family: "Sigmar One", sans-serif;
   font-size: 1.875rem;
-  color: #cc1465;
-  margin-top: 0.3em;
-  margin-left: 0.3em;
-  margin-right: 0.3em;
+  color: #b20953;
+  margin: 0.3em;
+
   padding-top: 0.2em;
 }
 
