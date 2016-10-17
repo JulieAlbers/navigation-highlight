@@ -16,7 +16,7 @@ body {
 h1 {
   font-family: "Sigmar One", sans-serif;
   font-size: 3rem;
-  color: #cc1465;
+  color: #b20953;
   text-align: center;
   margin: 0.3em;
 }
@@ -47,6 +47,10 @@ nav li {
   background-color: #b20953;
 }
 
+.btn:hover {
+  background-color: #cc1465;
+}
+
 main {
   background-color: #fff;
   padding-top: 10px;
@@ -56,7 +60,7 @@ main {
 h2 {
   font-family: "Sigmar One", sans-serif;
   font-size: 1.875rem;
-  color: #cc1465;
+  color: #b20953;
   margin-top: 0.3em;
   margin-left: 0.3em;
   margin-right: 0.3em;
