@@ -1,7 +1,72 @@
 html {
 	box-sizing: border-box;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+  background-color: #ffe500;
 }
 
 *, *::before, *::after {
 	box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: "Sigmar One", sans-serif;
+  font-size: 3rem;
+  color: #cc1465;
+  text-align: center;
+  margin: 0.3em;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+  text-align: center;
+  display: inline-block;
+}
+
+.btn {
+  display: inline;
+  text-decoration: none;
+  font-size: 1.125rem;
+  color: #fff;
+  padding: 0.4em 0.5em;
+  radius: 4px;
+  background-color: #b2a212;
+  border-radius: 4px;
+}
+
+.current {
+  background-color: #b20953;
+}
+
+main {
+  background-color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-family: "Sigmar One", sans-serif;
+  font-size: 1.875rem;
+  color: #cc1465;
+  margin-left: 0.3em;
+  margin-right: 0.3em;
+}
+
+p {
+  margin-left: 0.3em;
+  margin-right: 0.3em;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.75rem;
 }
