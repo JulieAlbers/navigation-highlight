@@ -1,12 +1,12 @@
 html {
-	box-sizing: border-box;
+  box-sizing: border-box;
   font-family: Georgia, serif;
   line-height: 1.5;
   background-color: #ffe500;
 }
 
 *, *::before, *::after {
-	box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 body {
@@ -72,6 +72,7 @@ p {
 }
 
 img {
+  display: block;
   width: 100%;
   padding: 0.5em;
 }
