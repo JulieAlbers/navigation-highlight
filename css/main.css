@@ -38,7 +38,7 @@ nav li {
   font-size: 1.125rem;
   color: #fff;
   padding: 0.3em 0.4em;
-  radius: 4px;
+  border-radius: 4px;
   background-color: #b2a212;
   border-radius: 4px;
 }
@@ -47,7 +47,7 @@ nav li {
   background-color: #b20953;
 }
 
-.btn:hover {
+a:hover {
   background-color: #cc1465;
 }
 
@@ -77,6 +77,9 @@ img {
 }
 
 footer {
+  padding-top: 10px;
+  padding-bottom: 10px;
   text-align: center;
   font-size: 0.75rem;
+  color: #2f2d13;
 }
